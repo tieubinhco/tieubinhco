@@ -10,7 +10,7 @@
 🍁 Mechatronics undergraduate
 
 - 🔭 I’m currently working on a Robot Soccer System project.
-
+- 📫 Send me DM at @tieubinhco on Telegram
 
 
 <!--
