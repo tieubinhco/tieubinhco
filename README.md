@@ -1,12 +1,13 @@
 ### Hi there, this is Tieu Binh 👋 <img src="https://img.shields.io/badge/MATLAB-enthusiast-orange"> <img src="https://img.shields.io/badge/python-enthusiast-green"> <img src="https://img.shields.io/badge/C%2B%2B-enthusiast-red"/>
 ### learning 🔥
-🍁 Mechatronics undergraduate
 
 ⛰️ MATLAB
 
 🐍 Python
 
 ©️ C++
+
+🍁 Mechatronics undergraduate
 
 - 🔭 I’m currently working on a Robot Soccer System project.
 
