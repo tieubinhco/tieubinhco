@@ -1,4 +1,4 @@
-### Hi there, this is Tieu Binh 👋 <img src="https://img.shields.io/badge/MATLAB-enthusiast-orange"> <img src="https://img.shields.io/badge/python-enthusiast-green"> <img src="https://img.shields.io/badge/C%2B%2B-enthusiast-red"/>
+## Hi there, this is Tieu Binh 👋 <img src="https://img.shields.io/badge/MATLAB-enthusiast-orange"> <img src="https://img.shields.io/badge/python-enthusiast-green"> <img src="https://img.shields.io/badge/C%2B%2B-enthusiast-red"/>
 ### learning 🔥
 
 ⛰️ MATLAB
