@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, this is Tieu Binh 👋 <img src="https://img.shields.io/badge/MATLAB-enthusiast-orange"> <img src="https://img.shields.io/badge/python-enthusiast-green"> <img src="https://img.shields.io/badge/C%2B%2B-enthusiast-red"/>
+### learning 🔥
+🍁 Mechatronics undergraduate
+
+⛰️ MATLAB
+
+🐍 Python
+
+©️ C++
+
+- 🔭 I’m currently working on a Robot Soccer System project.
+
+
 
 <!--
 **tieubinhco/tieubinhco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
