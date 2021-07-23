@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on a Robot Soccer System project.
 - 📫 Send me DM at @tieubinhco on Telegram
 
+[![TieuBinh's GitHub stats](https://github-readme-stats.vercel.app/api?tieubinhco=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tieubinhco/tieubinhco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
