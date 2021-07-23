@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on a Robot Soccer System project.
 - 📫 Send me DM at @tieubinhco on Telegram
 
-[![TieuBinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tieubinhco&show_icons=true&theme=radical)]
+![TieuBinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tieubinhco&count_private=true&show_icons=true)
 
 <!--
 **tieubinhco/tieubinhco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
