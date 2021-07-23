@@ -1,4 +1,5 @@
 ## Hi there, this is Tieu Binh 👋 <img src="https://img.shields.io/badge/MATLAB-enthusiast-orange"> <img src="https://img.shields.io/badge/python-enthusiast-green"> <img src="https://img.shields.io/badge/C%2B%2B-enthusiast-red"/>
+
 ### learning 🔥
 
 ⛰️ MATLAB
@@ -12,7 +13,7 @@
 - 🔭 I’m currently working on a Robot Soccer System project.
 - 📫 Send me DM at @tieubinhco on Telegram
 
-[![TieuBinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tieubinhco)](https://github.com/anuraghazra/github-readme-stats)
+[![TieuBinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tieubinhco&show_icons=true&theme=radical)]
 
 <!--
 **tieubinhco/tieubinhco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
