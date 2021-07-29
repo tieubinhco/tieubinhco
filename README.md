@@ -1,4 +1,4 @@
-## Hi there, this is Tieu Binh 👋 <img src="https://img.shields.io/badge/MATLAB-enthusiast-orange"> <img src="https://img.shields.io/badge/python-enthusiast-green"> <img src="https://img.shields.io/badge/C%2B%2B-enthusiast-red"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tieubinhco&label=Profile%20views&color=0e75b6&style=flat" alt="tieubinhco" /> </p>
+## Hi there, this is Tieu Binh 👋 <img src="https://img.shields.io/badge/MATLAB-enthusiast-orange"> <img src="https://img.shields.io/badge/python-enthusiast-blue"> <img src="https://img.shields.io/badge/C%2B%2B-enthusiast-red"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tieubinhco&label=Profile%20views&color=0e75b6&style=flat" alt="tieubinhco" /> </p>
 
 
 ### learning 🔥
