@@ -12,8 +12,7 @@
 - 📫 Send me DM at @tieubinhco on Telegram
 
 ![TieuBinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tieubinhco&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tieubinhco&layout=compact)
-
-
+<a><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tieubinhco&" alt="tieubinhco" /></a>
 
 
 
