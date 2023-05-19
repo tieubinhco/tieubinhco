@@ -11,7 +11,7 @@
 🍁 Mechatronics undergraduate
 
 - 🔭 I’m currently working on a Robot Soccer System project.
-- 📫 Send me DM at @tieubinhco on Telegram
+- 📫 Send me DM at [@tieubinhco](https://t.me/tieubinhco) on Telegram <img src=https://github.com/tieubinhco/tieubinhco/assets/32073593/84402dc8-261c-44b5-9149-5cd2e255bbb2 width="30" height="30">
 
 ![TieuBinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tieubinhco&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tieubinhco&layout=compact)
 <a><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tieubinhco&" alt="tieubinhco" /></a>
